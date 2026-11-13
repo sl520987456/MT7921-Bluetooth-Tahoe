@@ -1,3 +1,9 @@
+<div align="right">
+
+[![English](https://img.shields.io/badge/lang-English-007EC6.svg)](README.md) [![简体中文](https://img.shields.io/badge/lang-简体中文-red.svg)](README_CN.md)
+
+</div>
+
 # MT7921 Bluetooth on macOS Tahoe (26.x)
 
 **Enable Foxconn MT7921 Bluetooth (`0489:E0CD`) on macOS Tahoe via the native `bluetoothd` MediaTek SRS stack — no `/etc/bluetool` firmware files needed.**

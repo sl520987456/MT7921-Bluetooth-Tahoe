@@ -1,3 +1,9 @@
+<div align="right">
+
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md) [![简体中文](https://img.shields.io/badge/lang-简体中文-CB171E.svg)](README_CN.md)
+
+</div>
+
 # MT7921 蓝牙 · macOS Tahoe (26.x) 原生驱动方案
 
 **让 Foxconn MT7921 蓝牙（`0489:E0CD`）在 macOS Tahoe 上被原生 `bluetoothd` 的 MediaTek SRS 蓝牙栈完整接管——无需 `/etc/bluetool` 固件文件。**
