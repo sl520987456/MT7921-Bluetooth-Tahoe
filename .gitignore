@@ -1,0 +1,9 @@
+# macOS build artifacts
+build/
+build-patcher/
+.deps/
+firmwares/*.bin
+SimpleMtkBtFw/FwBinary.cpp
+*.o
+*.err
+.DS_Store
